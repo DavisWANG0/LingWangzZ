@@ -3,9 +3,9 @@
   Love coding 💻, painting 🎨 and games ![](https://img.shields.io/badge/-Nintendo-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff).
 
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the—badge&logo=python&logoColor=orange) 
-<!-- ![](https://img.shields.io/badge/pytorch-v1.10-red?style=for-the—badge&logo=pytorch&logoColor=red) -->
 ![](https://img.shields.io/badge/java-11-blue?style=for-the—badge&logo=java&logoColor=blue)
 ![](https://img.shields.io/badge/c++-11-green?style=for-the—badge&logo=c&logoColor=green)
+<!-- ![](https://img.shields.io/badge/pytorch-v1.10-red?style=for-the—badge&logo=pytorch&logoColor=red) -->
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
