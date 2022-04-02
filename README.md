@@ -1,9 +1,6 @@
 # Hi there 👏
   I'm a student 👨‍🎓 at Tongji University from Shanghai, China. 
-  
-  Love coding 💻, painting 🎨, photographing 📹 and games ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff).
-
-**📧** 1393225956@qq.com
+  Love coding 💻, painting 🎨 and games ![](https://img.shields.io/badge/-Nintendo-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff).
 
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the—badge&logo=python&logoColor=orange) 
 ![](https://img.shields.io/badge/pytorch-v1.10-red?style=for-the—badge&logo=pytorch&logoColor=red)
