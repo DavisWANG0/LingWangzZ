@@ -1,4 +1,4 @@
-# Hello！
+# Hi there 👏
   I'm a student 👨‍🎓 at Tongji University from Shanghai, China. love coding 💻, painting 🎨 and photographing 📹.
 
 **📧** 1393225956@qq.com
